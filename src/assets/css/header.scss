@@ -4,7 +4,7 @@ header.header {
     left: 0;
     height: 80px;
     background-color: #d8dafa;
-    padding-top: 80px;
+    z-index: 10;
 
     > nav {
         width: 100vw;
